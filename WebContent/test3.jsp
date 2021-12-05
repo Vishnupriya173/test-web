@@ -8,9 +8,7 @@
 </head>
 <body>
 <%
-TestHTTP test = new TestHTTP();
-int s = test.triggerHTTP();
-out.println("Status:" + s);
+out.println("Status: Sucess");
 %>
 </body>
 </html>
